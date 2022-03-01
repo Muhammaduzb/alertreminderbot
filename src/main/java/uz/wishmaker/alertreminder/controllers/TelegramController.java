@@ -24,12 +24,12 @@ public class TelegramController extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "";
+        return "alertreminders_bot";
     }
 
     @Override
     public String getBotToken() {
-        return "";
+        return "5252236047:AAEfXK-q8WBPtsFSY4YGkOT0bSfSV-BZLek";
     }
 
     @Override
